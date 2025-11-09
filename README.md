@@ -1,9 +1,10 @@
 The project is a shell-based command-line tool designed to automatically archive and manage system logs.
 
-![Description](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMDZnaHBseWhnZThwd3p6MnltMXlrbjhraTRtMWRzNjlhbTkwNWl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uf20otKJwLGbDljxqw/giphy.gif)
+![Description](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOWhnOGphc2ZxbnIyYW95ZDRuc3JuZXBkOXFjcTJiNnN6dnk2ODZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8390s43Cqi24Yrrdh/giphy.gif)
 
 
 It helps keep Unix systems clean by compressing logs and storing them in a separate directory while maintaining them for future reference.
+Check: https://roadmap.sh/projects/log-archive-tool
 ## Main Features:
 
 * Runs from the terminal with a simple command:
